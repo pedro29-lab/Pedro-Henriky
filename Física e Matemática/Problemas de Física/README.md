@@ -1,1 +1,1 @@
-Aqui estão alguns problemas de Física autorais e não autorais resolvidos em LaTeX.
+Aqui estão alguns problemas de Física autorais e não autorais resolvidos em LaTeX. Os problemas envolvem a matemática do ensino médio, mas também podem ser usados ferramentas do ensino superior, como Cálculo Diferencial e Integral, Álgebra Linear, dentre outros.
